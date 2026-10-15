@@ -1,5 +1,7 @@
 # FORMA CLI website
 
+**Repository description:** A permissioned coding-agent CLI with browser automation, project-aware workflows, and screenshot-based UI/UX audits.
+
 The standalone product landing page for [FORMA CLI](https://github.com/EgoisticCoder/Forma_CLI), a visual coding agent with an isolated, permissioned Playwright browser and screenshot-based UI/UX audits.
 
 ## Run locally
